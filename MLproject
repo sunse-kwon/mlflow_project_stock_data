@@ -1,0 +1,6 @@
+name: "apple-stock-price-prediction"
+python_env: python_env.yaml
+entry_points:
+    Bagging:
+        command: "python train.py"
+
